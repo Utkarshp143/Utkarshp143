@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/utkarshp143/](https://www.crio.do/learn/portfolio/utkarshp143/)
 
-- 💬 Ask me about **Java, Mysql**
+- 💬 Ask me about **Java, Spring Security, Mysql**
 
 - 📫 How to reach me **utkarshp10@outlook.com**
 
